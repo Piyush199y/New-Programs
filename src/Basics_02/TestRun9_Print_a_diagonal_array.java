@@ -21,7 +21,24 @@ public class TestRun9_Print_a_diagonal_array {
         //        | 7 8 9 |
 
         for(int i = 0; i < arry_2d.length; i++){
-            System.out.println(arry_2d[i][i]);
+            System.out.println(arry_2d[i][i]); }
+
+        System.out.println("");
+
+        for (int i = 0; i < arry_2d.length; i++) {   // Second method
+            for (int j = 0; j < arry_2d[i].length; j++) {
+                if (i == j) {
+                    System.out.println(arry_2d[i][j]);
+                }
+
+            }
+        }
+
+        for (int i = 0; i < arry_2d.length; i++) {   // to print complete array
+            for (int j = 0; j < arry_2d[i].length; j++) {
+                System.out.print("\t" + arry_2d[i][j]);
+            }
+            System.out.println("");
         }
 
     }
