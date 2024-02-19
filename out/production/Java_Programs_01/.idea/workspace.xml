@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics_01/TestRun3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/TestRun3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +41,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestRun3">
-    <configuration name="TestRun3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_01.TestRun3" />
+  <component name="RunManager" selected="Application.TestRun10">
+    <configuration name="TestRun10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun10" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_01.*" />
+          <option name="PATTERN" value="src.Basics_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,19 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_dlete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_dlete" />
-      <module name="Java_Programs_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testrun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_01.Testrun" />
+    <configuration name="TestRun6_Swapping_of_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun6_Swapping_of_two_numbers" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_01.*" />
+          <option name="PATTERN" value="src.Basics_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +68,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testrun2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_01.Testrun2" />
+    <configuration name="TestRun7_Swapping_of_two_numbers_anotherMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun7_Swapping_of_two_numbers_anotherMethod" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_01.*" />
+          <option name="PATTERN" value="src.Basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun8_How_to_get_input_and_print_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun8_How_to_get_input_and_print_array" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun9_Print_a_diagonal_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun9_Print_a_diagonal_array" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestRun3" />
-        <item itemvalue="Application.Testrun2" />
-        <item itemvalue="Application.Test_dlete" />
-        <item itemvalue="Application.Testrun" />
+        <item itemvalue="Application.TestRun10" />
+        <item itemvalue="Application.TestRun9_Print_a_diagonal_array" />
+        <item itemvalue="Application.TestRun8_How_to_get_input_and_print_array" />
+        <item itemvalue="Application.TestRun7_Swapping_of_two_numbers_anotherMethod" />
+        <item itemvalue="Application.TestRun6_Swapping_of_two_numbers" />
       </list>
     </recent_temporary>
   </component>
