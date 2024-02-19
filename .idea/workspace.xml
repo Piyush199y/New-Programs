@@ -41,9 +41,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestRun10">
-    <configuration name="TestRun10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun10" />
+  <component name="RunManager" selected="Application.TestRun11_reverse_a_string_second_method">
+    <configuration name="TestRun10_prime_number_program_with_scanner_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun10_prime_number_program_with_scanner_class" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRun6_Swapping_of_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun6_Swapping_of_two_numbers" />
+    <configuration name="TestRun10_reverse_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun10_reverse_a_string" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRun7_Swapping_of_two_numbers_anotherMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun7_Swapping_of_two_numbers_anotherMethod" />
+    <configuration name="TestRun11_reverse_a_string_second_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.TestRun11_reverse_a_string_second_method" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestRun10" />
+        <item itemvalue="Application.TestRun11_reverse_a_string_second_method" />
+        <item itemvalue="Application.TestRun10_reverse_a_string" />
+        <item itemvalue="Application.TestRun10_prime_number_program_with_scanner_class" />
         <item itemvalue="Application.TestRun9_Print_a_diagonal_array" />
         <item itemvalue="Application.TestRun8_How_to_get_input_and_print_array" />
-        <item itemvalue="Application.TestRun7_Swapping_of_two_numbers_anotherMethod" />
-        <item itemvalue="Application.TestRun6_Swapping_of_two_numbers" />
       </list>
     </recent_temporary>
   </component>
