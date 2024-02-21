@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,20 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab008_Palindrome_without_Using_Reverse">
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_03.Lab004" />
-      <module name="Java_Programs_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Basics_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab009">
     <configuration name="Lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Basics_03.Lab005" />
       <module name="Java_Programs_01" />
@@ -109,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_03.Lab009" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab009" />
         <item itemvalue="Application.Lab008_Palindrome_without_Using_Reverse" />
         <item itemvalue="Application.Lab007_palindrome" />
         <item itemvalue="Application.Lab006_String_builder_reverse" />
         <item itemvalue="Application.Lab005" />
-        <item itemvalue="Application.Lab004" />
       </list>
     </recent_temporary>
   </component>
