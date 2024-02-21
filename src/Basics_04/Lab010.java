@@ -7,7 +7,7 @@ public class Lab010 {
 //        System.out.println(s);
 
         ABCperson p = new ABCperson();   // Default constructor is called by ABCperson();
-        p.name = "ABC";
+        p.age = 47;
         System.out.println(p.name);
 
         p.talk();
