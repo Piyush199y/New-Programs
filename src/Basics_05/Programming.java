@@ -6,7 +6,7 @@ public class Programming {
     String author;
 
     Programming(){
-        System.out.println("Default");
+        System.out.println("Program Default");
     }
 
     Programming(String author, int version){
@@ -15,7 +15,11 @@ public class Programming {
     }
 
     void printInfo(){
-        System.out.println("Program info = " + this.version + "Author" + this.author);
+        System.out.println("Program info = " + this.version + " Author " + this.author);
+    }
+
+    void car(){
+        System.out.println("Lamborghini");
     }
 
 

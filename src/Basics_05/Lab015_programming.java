@@ -8,6 +8,7 @@ public class Lab015_programming {
         // p - ref to an object
         // new Programming() - Object
 
+        Programming p1 = new Programming("Python", 12);
         p.printInfo();
     }
 }
