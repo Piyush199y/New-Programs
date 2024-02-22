@@ -22,6 +22,10 @@ public class Programming {
         System.out.println("Lamborghini");
     }
 
+    void home(){
+        System.out.println("3BHK flat");
+    }
+
 
 
 }
