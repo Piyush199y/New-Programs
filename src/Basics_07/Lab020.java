@@ -5,6 +5,7 @@ public class Lab020 {
 
     void print(){
         int a = 10;  // local variable
+        // life of a exist only in print
         System.out.println(a);
     }
 }
