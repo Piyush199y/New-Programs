@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programs_01/src/Basics06_Hierarchical/Lab019.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programs_01/src/Basics06_Hierarchical/Lab019.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics_07/Lab020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_07/Lab020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programs_01/src/Basics_07/Lab024.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programs_01/src/Basics_07/Lab024.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programs_01/src/Basics_07/Loginfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programs_01/src/Basics_07/Loginfix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab024">
-    <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_05.Lab017" />
+  <component name="RunManager" selected="Application.Jcop">
+    <configuration name="Jcop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.AccessModifiers.Police.Jcop" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_05.*" />
+          <option name="PATTERN" value="src.AccessModifiers.Police.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Python" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_05.Python" />
+    <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.AccessModifiers.Criminal.Thief" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_05.*" />
+          <option name="PATTERN" value="src.AccessModifiers.Criminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jcop" />
+        <item itemvalue="Application.Thief" />
         <item itemvalue="Application.Lab024" />
         <item itemvalue="Application.Lab021" />
         <item itemvalue="Application.Lab019" />
-        <item itemvalue="Application.Python" />
-        <item itemvalue="Application.Lab017" />
       </list>
     </recent_temporary>
   </component>
