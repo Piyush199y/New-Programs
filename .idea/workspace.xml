@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,26 +41,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RC">
+  <component name="RunManager" selected="Application.RC1">
     <configuration name="Jcop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.AccessModifiers.Police.Jcop" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.AccessModifiers.Police.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_07.Lab021" />
-      <module name="Java_Programs_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Basics_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Method_Overriding.RC1" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Method_Overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.AccessModifiers.Criminal.Thief" />
       <module name="Java_Programs_01" />
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RC1" />
         <item itemvalue="Application.RC" />
         <item itemvalue="Application.Jcop" />
         <item itemvalue="Application.Thief" />
         <item itemvalue="Application.Lab024" />
-        <item itemvalue="Application.Lab021" />
       </list>
     </recent_temporary>
   </component>
