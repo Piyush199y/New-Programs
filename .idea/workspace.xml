@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction/Example_2/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction/Example_2/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction/Real_time_example/RC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction/Real_time_example/TC1_Chrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarRun">
+  <component name="RunManager" selected="Application.Lab029">
     <configuration name="CarRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Interface.Real_time.CarRun" />
       <module name="Java_Programs_01" />
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jcop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.AccessModifiers.Police.Jcop" />
+    <configuration name="Lab027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_08.Lab027" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.AccessModifiers.Police.*" />
+          <option name="PATTERN" value="src.Basics_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MethodOverloading.RC" />
+    <configuration name="Lab028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_08.Lab028" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MethodOverloading.*" />
+          <option name="PATTERN" value="src.Basics_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Method_Overriding.RC1" />
+    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_08.Lab029" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Method_Overriding.*" />
+          <option name="PATTERN" value="src.Basics_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.AccessModifiers.Criminal.Thief" />
+    <configuration name="testanddelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Interface.testanddelete" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.AccessModifiers.Criminal.*" />
+          <option name="PATTERN" value="src.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab029" />
+        <item itemvalue="Application.Lab028" />
+        <item itemvalue="Application.Lab027" />
+        <item itemvalue="Application.testanddelete" />
         <item itemvalue="Application.CarRun" />
-        <item itemvalue="Application.RC1" />
-        <item itemvalue="Application.RC" />
-        <item itemvalue="Application.Jcop" />
-        <item itemvalue="Application.Thief" />
       </list>
     </recent_temporary>
   </component>
