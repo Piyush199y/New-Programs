@@ -44,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab041">
-    <configuration name="La036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NestedClass.La036" />
+  <component name="RunManager" selected="Application.Lab047">
+    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab043" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.NestedClass.*" />
+          <option name="PATTERN" value="src.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NestedClass.Lab032" />
+    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab044" />
       <module name="Java_Programs_01" />
+      <option name="PROGRAM_PARAMETERS" value="137" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.NestedClass.*" />
+          <option name="PATTERN" value="src.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab033" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NestedClass.Lab033" />
+    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab045" />
       <module name="Java_Programs_01" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.NestedClass.*" />
+          <option name="PATTERN" value="src.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.wrapperClass.Lab040" />
+    <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab046" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.wrapperClass.*" />
+          <option name="PATTERN" value="src.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.wrapperClass.Lab041" />
+    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab047" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.wrapperClass.*" />
+          <option name="PATTERN" value="src.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +112,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab046" />
+      <item itemvalue="Application.Lab047" />
+      <item itemvalue="Application.Lab045" />
+      <item itemvalue="Application.Lab043" />
+      <item itemvalue="Application.Lab044" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab041" />
-        <item itemvalue="Application.Lab040" />
-        <item itemvalue="Application.La036" />
-        <item itemvalue="Application.Lab033" />
-        <item itemvalue="Application.Lab032" />
+        <item itemvalue="Application.Lab047" />
+        <item itemvalue="Application.Lab046" />
+        <item itemvalue="Application.Lab045" />
+        <item itemvalue="Application.Lab044" />
+        <item itemvalue="Application.Lab043" />
       </list>
     </recent_temporary>
   </component>
