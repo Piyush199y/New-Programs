@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Throw_Throws/Lab048.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Throw_Throws/Lab048.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab048">
-    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab045" />
-      <module name="Java_Programs_01" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab051">
     <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab046" />
       <module name="Java_Programs_01" />
@@ -111,20 +98,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Throw_Throws.Lab051" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Throw_Throws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab048" />
       <item itemvalue="Application.Lab049" />
+      <item itemvalue="Application.Lab051" />
       <item itemvalue="Application.Lab046" />
       <item itemvalue="Application.Lab047" />
-      <item itemvalue="Application.Lab045" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab051" />
         <item itemvalue="Application.Lab048" />
         <item itemvalue="Application.Lab049" />
         <item itemvalue="Application.Lab047" />
         <item itemvalue="Application.Lab046" />
-        <item itemvalue="Application.Lab045" />
       </list>
     </recent_temporary>
   </component>
