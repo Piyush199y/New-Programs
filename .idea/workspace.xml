@@ -44,34 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab047">
-    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab043" />
-      <module name="Java_Programs_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab044" />
-      <module name="Java_Programs_01" />
-      <option name="PROGRAM_PARAMETERS" value="137" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab048">
     <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab045" />
       <module name="Java_Programs_01" />
@@ -112,20 +85,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Throw_Throws.Lab048" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Throw_Throws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Throw_Throws.Lab049" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Throw_Throws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Lab048" />
+      <item itemvalue="Application.Lab049" />
       <item itemvalue="Application.Lab046" />
       <item itemvalue="Application.Lab047" />
       <item itemvalue="Application.Lab045" />
-      <item itemvalue="Application.Lab043" />
-      <item itemvalue="Application.Lab044" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab048" />
+        <item itemvalue="Application.Lab049" />
         <item itemvalue="Application.Lab047" />
         <item itemvalue="Application.Lab046" />
         <item itemvalue="Application.Lab045" />
-        <item itemvalue="Application.Lab044" />
-        <item itemvalue="Application.Lab043" />
       </list>
     </recent_temporary>
   </component>
