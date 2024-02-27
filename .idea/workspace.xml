@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="" />
+    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab057">
+  <component name="RunManager" selected="Application.Lab059">
     <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Collections01.Lab054" />
       <module name="Java_Programs_01" />
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bank3_run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Throw_Throws.bank3_run" />
+    <configuration name="Lab059" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections02.Lab059" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Throw_Throws.*" />
+          <option name="PATTERN" value="src.Collections02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,15 +115,15 @@
       <item itemvalue="Application.Lab055" />
       <item itemvalue="Application.Lab056" />
       <item itemvalue="Application.Lab057" />
-      <item itemvalue="Application.bank3_run" />
+      <item itemvalue="Application.Lab059" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab059" />
         <item itemvalue="Application.Lab057" />
         <item itemvalue="Application.Lab056" />
         <item itemvalue="Application.Lab055" />
         <item itemvalue="Application.Lab054" />
-        <item itemvalue="Application.bank3_run" />
       </list>
     </recent_temporary>
   </component>
