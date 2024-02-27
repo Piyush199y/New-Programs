@@ -7,7 +7,7 @@ public class Lab055 {
         List myList = new ArrayList();
         myList.add("Testing");
         myList.add("ArrayList");
-        myList.add(1);
+        myList.add(1000);
         myList.add(true);
 
 
@@ -21,12 +21,15 @@ public class Lab055 {
 
         System.out.println(myList.get(0));  // To get the element on that particular index
 
-        for(int i = 0 ; i<=myList.size(); i++){
+        for(int i = 0 ; i< myList.size(); i++){
             System.out.println(myList.get(i));
         }
 
+        System.out.println("SPACE : Another output ");
 
-
+        for (Object o: myList){
+            System.out.println(o);  // Another way to iterate the ArrayList
+        }
 
 
     }
