@@ -7,7 +7,7 @@ import java.util.Comparator;
  *  Compare operator
  */
 
-class Asc implements Comparator<Student>{
+class Asc implements Comparator<Student>{  // In this <> expect class name
     public int compare (Student o1, Student o2 ){
         return Integer.compare(o1.getId(),o2.getId());
     }
