@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections02/Lab059.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections02/Lab059_Iterartor1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab059">
-    <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Collections01.Lab054" />
-      <module name="Java_Programs_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Collections01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab060_List_Iterartor1">
     <configuration name="Lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Collections01.Lab055" />
       <module name="Java_Programs_01" />
@@ -97,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab059" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Collections02.Lab059" />
+    <configuration name="Lab059_Iterartor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections02.Lab059_Iterartor1" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Collections02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab060_List_Iterartor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections02.Lab060_List_Iterartor1" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
@@ -111,19 +112,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab054" />
       <item itemvalue="Application.Lab055" />
       <item itemvalue="Application.Lab056" />
       <item itemvalue="Application.Lab057" />
-      <item itemvalue="Application.Lab059" />
+      <item itemvalue="Application.Lab059_Iterartor1" />
+      <item itemvalue="Application.Lab060_List_Iterartor1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab059" />
+        <item itemvalue="Application.Lab060_List_Iterartor1" />
+        <item itemvalue="Application.Lab059_Iterartor1" />
         <item itemvalue="Application.Lab057" />
         <item itemvalue="Application.Lab056" />
         <item itemvalue="Application.Lab055" />
-        <item itemvalue="Application.Lab054" />
       </list>
     </recent_temporary>
   </component>
