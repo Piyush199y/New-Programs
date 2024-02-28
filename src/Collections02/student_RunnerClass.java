@@ -9,7 +9,7 @@ public class student_RunnerClass {
         Student student3 = new Student(3, "testEnv");
         Student student5 = new Student(5, "testResult");
         Student student2 = new Student(2, "testPlan");
-        Student student1 = new Student(1, "testcase");
+        Student student1 = new Student(1, "testCase");
         Student student4 = new Student(4, "testExec");
 
         List<Student> students = new ArrayList<>();
@@ -20,7 +20,10 @@ public class student_RunnerClass {
         students.add(student4);
         System.out.println(students);
 
-        Collections.sort(students);
+        //Collections.sort(students);                   // Sort by Id -> Comparable
+        Collections.sort(students, new sortByname());  // Sort by Name -> Comparator
+        System.out.println(students);
+        Collections.sort(students, new Dec());        // Sort by Id Descending order -> Comparator
         System.out.println(students);
 
 
