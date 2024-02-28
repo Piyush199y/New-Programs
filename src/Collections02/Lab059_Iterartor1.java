@@ -23,6 +23,8 @@ public class Lab059_Iterartor1 {
 
         Iterator iterator = testlist.iterator();   // Custom iterator
         while(iterator.hasNext()){
+           // testlist.add("Newtestcase");  // Will give ConcurrentModificationException
+            // Modification while Iterating is not allowed
             System.out.println(iterator.next());
         }
 
