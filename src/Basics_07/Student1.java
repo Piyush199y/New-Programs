@@ -1,6 +1,6 @@
 package src.Basics_07;
 
-public class Student {
+public class Student1 {
 
     // Encapsulation
     // 1 . Getters and Setters - Condition based
@@ -9,6 +9,10 @@ public class Student {
 
     String name;
     int age;
+
+    public Student1(String first, int i) {
+
+    }
 
     void print(){
         System.out.println(name + age);
