@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections03/Lab064.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections03/Lab064.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections03/Lab068.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab067">
+  <component name="RunManager" selected="Application.Lab068">
     <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Collections03.Lab064" />
       <module name="Java_Programs_01" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="student_RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Collections02.student_RunnerClass" />
+    <configuration name="Lab068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections04.Lab068" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Collections02.*" />
+          <option name="PATTERN" value="src.Collections04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,15 +116,15 @@
       <item itemvalue="Application.Lab065" />
       <item itemvalue="Application.Lab066" />
       <item itemvalue="Application.Lab067" />
-      <item itemvalue="Application.student_RunnerClass" />
+      <item itemvalue="Application.Lab068" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab068" />
         <item itemvalue="Application.Lab067" />
         <item itemvalue="Application.Lab066" />
         <item itemvalue="Application.Lab065" />
         <item itemvalue="Application.Lab064" />
-        <item itemvalue="Application.student_RunnerClass" />
       </list>
     </recent_temporary>
   </component>
