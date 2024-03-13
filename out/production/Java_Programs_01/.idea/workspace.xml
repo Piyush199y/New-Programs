@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ff6f162-b401-4b4b-ad8b-cf0a8776dec6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,14 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab048">
-    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab044" />
+  <component name="RunManager" selected="Application.Lab073">
+    <configuration name="Lab069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections05.Lab069" />
       <module name="Java_Programs_01" />
-      <option name="PROGRAM_PARAMETERS" value="137" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
+          <option name="PATTERN" value="src.Collections05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,13 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab045" />
+    <configuration name="Lab070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections05.Lab070" />
       <module name="Java_Programs_01" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
+          <option name="PATTERN" value="src.Collections05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab046" />
+    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections05.Lab071" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
+          <option name="PATTERN" value="src.Collections05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Exceptions.Lab047" />
+    <configuration name="Lab072_Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_09.Lab072_Generics" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Exceptions.*" />
+          <option name="PATTERN" value="src.Basics_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Throw_Throws.Lab048" />
+    <configuration name="Lab073" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_09.Lab073" />
       <module name="Java_Programs_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Throw_Throws.*" />
+          <option name="PATTERN" value="src.Basics_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,19 +109,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab048" />
-      <item itemvalue="Application.Lab046" />
-      <item itemvalue="Application.Lab047" />
-      <item itemvalue="Application.Lab045" />
-      <item itemvalue="Application.Lab044" />
+      <item itemvalue="Application.Lab073" />
+      <item itemvalue="Application.Lab069" />
+      <item itemvalue="Application.Lab070" />
+      <item itemvalue="Application.Lab071" />
+      <item itemvalue="Application.Lab072_Generics" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab048" />
-        <item itemvalue="Application.Lab047" />
-        <item itemvalue="Application.Lab046" />
-        <item itemvalue="Application.Lab045" />
-        <item itemvalue="Application.Lab044" />
+        <item itemvalue="Application.Lab073" />
+        <item itemvalue="Application.Lab072_Generics" />
+        <item itemvalue="Application.Lab071" />
+        <item itemvalue="Application.Lab070" />
+        <item itemvalue="Application.Lab069" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +195,10 @@
           <line>12</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
