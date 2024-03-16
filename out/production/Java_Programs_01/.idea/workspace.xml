@@ -42,20 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab073">
-    <configuration name="Lab069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Collections05.Lab069" />
-      <module name="Java_Programs_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Collections05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test001">
     <configuration name="Lab070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Collections05.Lab070" />
       <module name="Java_Programs_01" />
@@ -108,20 +95,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Testing_new.Test001" />
+      <module name="Java_Programs_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Testing_new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Test001" />
       <item itemvalue="Application.Lab073" />
-      <item itemvalue="Application.Lab069" />
       <item itemvalue="Application.Lab070" />
       <item itemvalue="Application.Lab071" />
       <item itemvalue="Application.Lab072_Generics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test001" />
         <item itemvalue="Application.Lab073" />
         <item itemvalue="Application.Lab072_Generics" />
         <item itemvalue="Application.Lab071" />
         <item itemvalue="Application.Lab070" />
-        <item itemvalue="Application.Lab069" />
       </list>
     </recent_temporary>
   </component>
